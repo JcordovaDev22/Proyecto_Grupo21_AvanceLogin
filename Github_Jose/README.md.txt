@@ -1,4 +1,4 @@
-******PROYECTO TESIS GRUPO 21 **********
+************PROYECTO TESIS GRUPO 21 ****************
 
 TEMA: DISEÑO DE MODULO ADMINISTRATIVO DE ALQUILER DE 
 HABITACIÓN, INVENTARIO Y RESERVA DEL HOTEL SAN LUIS, 
@@ -22,3 +22,9 @@ Creación del MODEL:
 
 Creación Base de Datos:
  **login.sql
+ 
+ ************************
+ Credenciales del Sistema
+ USER:jcordovaa2@unemi.edu.ec
+ PASSWORD:123
+ ************************
