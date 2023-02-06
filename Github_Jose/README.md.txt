@@ -6,7 +6,7 @@ EN LA CIUDAD DE MILAGRO
 
 Nuestro primer avance del PROYECTO,
 Desarrollar con el Patrón de Diseño ,
-Modelo Vista Template,
+Modelo Vista Controlador,
 
 ******************
 Pantalla del login
